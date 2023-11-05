@@ -5,8 +5,7 @@ This is a simple project where I've created my resume using HTML and CSS. It's a
 
 ## Preview
 
-[View My Resume][# resume-html-css](https://mohammedfaiyaz29.github.io/resume-html-css/)https://mohammedfaiyaz29.github.io/resume-html-css/
-
+[View My Resume](https://mohammedfaiyaz29.github.io/resume-html-css/)
 ## Technologies Used
 
 - HTML
