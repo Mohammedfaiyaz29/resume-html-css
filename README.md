@@ -1,7 +1,7 @@
 
 # My Resume - HTML and CSS
 
-This is a simple project where I've created my resume using HTML and CSS. It's a digital representation of my professional background and skills.
+This is a simple project where I've created my resume using HTML and CSS. 
 
 ## Preview
 
